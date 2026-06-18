@@ -1,0 +1,6 @@
+{
+  "name": "Solar Installation Site Survey",
+  "description": "An interactive solar site survey, roof measurement estimator, and AI-powered estimation tool designed for solar installation professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
